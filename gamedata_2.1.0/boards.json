@@ -1,0 +1,4752 @@
+{
+  "defaultBoard": {
+    "dataTag": 857306595,
+    "localizationKey": "default",
+    "unlockType": 0,
+    "tokensOnUnlock": 0,
+    "available": true,
+    "energyRequired": 100,
+    "energyScale": 10,
+    "energyDrainPerSecond": 10,
+    "energyDrainPerSecondOnBattery": 15,
+    "UpgradeSteps": [
+      {
+        "level": 1,
+        "coinCost": 0,
+        "tokenCost": 0,
+        "multiplier": 1,
+        "xpBonus": 0,
+        "crewBonus": 0
+      }
+    ],
+    "Perk": 0,
+    "unlockCostTier": 0
+  },
+  "boards": [
+    {
+      "dataTag": 821107692,
+      "localizationKey": "jake",
+      "unlockType": 0,
+      "tokensOnUnlock": 12,
+      "available": true,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": -1995098026,
+      "unlockCostTier": 0
+    },
+    {
+      "dataTag": 797961277,
+      "localizationKey": "tricky",
+      "unlockType": 0,
+      "tokensOnUnlock": 12,
+      "available": true,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": -503230851,
+      "unlockCostTier": 0
+    },
+    {
+      "dataTag": -2027086747,
+      "localizationKey": "fresh",
+      "unlockType": 0,
+      "tokensOnUnlock": 12,
+      "available": true,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": -1621121961,
+      "unlockCostTier": 0
+    },
+    {
+      "dataTag": -1569537423,
+      "localizationKey": "missmaia",
+      "unlockType": 8,
+      "tokensOnUnlock": 12,
+      "available": true,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 728812219,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -573684740,
+      "localizationKey": "ninjaone",
+      "unlockType": 8,
+      "tokensOnUnlock": 12,
+      "available": true,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 1060339142,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -2089484430,
+      "localizationKey": "yutani",
+      "unlockType": 8,
+      "tokensOnUnlock": 12,
+      "available": true,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": -416205885,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -875752536,
+      "localizationKey": "spike",
+      "unlockType": 8,
+      "tokensOnUnlock": 12,
+      "available": true,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 1752181793,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -1886993925,
+      "localizationKey": "ella",
+      "unlockType": 8,
+      "tokensOnUnlock": 12,
+      "available": true,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": -1428873355,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -425685755,
+      "localizationKey": "nicky",
+      "unlockType": 8,
+      "tokensOnUnlock": 12,
+      "available": true,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 1060389679,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -1101319815,
+      "localizationKey": "billy",
+      "unlockType": 8,
+      "tokensOnUnlock": 12,
+      "available": true,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 2099302703,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -1995581156,
+      "localizationKey": "rosalita",
+      "unlockType": 8,
+      "tokensOnUnlock": 12,
+      "available": true,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 1159192629,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -487324792,
+      "localizationKey": "tasha",
+      "unlockType": 8,
+      "tokensOnUnlock": 12,
+      "available": true,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 399990664,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -1946062440,
+      "localizationKey": "jaewoo",
+      "unlockType": 8,
+      "tokensOnUnlock": 12,
+      "available": true,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": -1765005298,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -2014824727,
+      "localizationKey": "tagbot",
+      "unlockType": 8,
+      "tokensOnUnlock": 12,
+      "available": true,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": -756222579,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": 369661746,
+      "localizationKey": "lucy",
+      "unlockType": 3,
+      "tokensOnUnlock": 12,
+      "available": false,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 1316356689,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": 1389875337,
+      "localizationKey": "georgie",
+      "unlockType": 3,
+      "tokensOnUnlock": 12,
+      "available": false,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 1440577314,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -268124908,
+      "localizationKey": "v3ctor",
+      "unlockType": 3,
+      "tokensOnUnlock": 12,
+      "available": false,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 535541452,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -762458939,
+      "localizationKey": "zara",
+      "unlockType": 3,
+      "tokensOnUnlock": 12,
+      "available": false,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 1687257363,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -1702093280,
+      "localizationKey": "lilah",
+      "unlockType": 3,
+      "tokensOnUnlock": 12,
+      "available": false,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 2024699571,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -1398156391,
+      "localizationKey": "ash",
+      "unlockType": 3,
+      "tokensOnUnlock": 12,
+      "available": false,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 1889978127,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": 1016074756,
+      "localizationKey": "jenny",
+      "unlockType": 3,
+      "tokensOnUnlock": 12,
+      "available": false,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": -1466636838,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": 1346993456,
+      "localizationKey": "wei",
+      "unlockType": 3,
+      "tokensOnUnlock": 12,
+      "available": false,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": -1182601852,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -2028224723,
+      "localizationKey": "princek",
+      "unlockType": 3,
+      "tokensOnUnlock": 12,
+      "available": false,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": -439351916,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -282672473,
+      "localizationKey": "monique",
+      "unlockType": 3,
+      "tokensOnUnlock": 12,
+      "available": false,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 1903266868,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": 463203314,
+      "localizationKey": "noon",
+      "unlockType": 3,
+      "tokensOnUnlock": 12,
+      "available": false,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 1874662720,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": 1092080220,
+      "localizationKey": "harini",
+      "unlockType": 3,
+      "tokensOnUnlock": 12,
+      "available": false,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 1037995495,
+      "unlockCostTier": 1
+    },
+    {
+      "dataTag": -1017845163,
+      "localizationKey": "classic",
+      "unlockType": 6,
+      "tokensOnUnlock": 12,
+      "available": false,
+      "energyRequired": 100,
+      "energyScale": 10,
+      "energyDrainPerSecond": 10,
+      "energyDrainPerSecondOnBattery": 15,
+      "UpgradeSteps": [
+        {
+          "level": 1,
+          "coinCost": 1000,
+          "tokenCost": 1,
+          "multiplier": 1,
+          "xpBonus": 10,
+          "crewBonus": 0
+        },
+        {
+          "level": 2,
+          "coinCost": 2000,
+          "tokenCost": 2,
+          "multiplier": 1.2,
+          "xpBonus": 15,
+          "crewBonus": 0
+        },
+        {
+          "level": 3,
+          "coinCost": 2500,
+          "tokenCost": 3,
+          "multiplier": 1.2,
+          "xpBonus": 25,
+          "crewBonus": 0
+        },
+        {
+          "level": 4,
+          "coinCost": 4000,
+          "tokenCost": 4,
+          "multiplier": 1.4,
+          "xpBonus": 40,
+          "crewBonus": 0
+        },
+        {
+          "level": 5,
+          "coinCost": 5500,
+          "tokenCost": 10,
+          "multiplier": 1.4,
+          "xpBonus": 55,
+          "crewBonus": 0
+        },
+        {
+          "level": 6,
+          "coinCost": 8000,
+          "tokenCost": 20,
+          "multiplier": 1.6,
+          "xpBonus": 75,
+          "crewBonus": 0
+        },
+        {
+          "level": 7,
+          "coinCost": 10000,
+          "tokenCost": 30,
+          "multiplier": 1.6,
+          "xpBonus": 95,
+          "crewBonus": 0
+        },
+        {
+          "level": 8,
+          "coinCost": 15000,
+          "tokenCost": 40,
+          "multiplier": 1.8,
+          "xpBonus": 120,
+          "crewBonus": 0
+        },
+        {
+          "level": 9,
+          "coinCost": 20000,
+          "tokenCost": 60,
+          "multiplier": 1.8,
+          "xpBonus": 145,
+          "crewBonus": 0
+        },
+        {
+          "level": 10,
+          "coinCost": 30000,
+          "tokenCost": 80,
+          "multiplier": 2,
+          "xpBonus": 170,
+          "crewBonus": 0
+        },
+        {
+          "level": 11,
+          "coinCost": 40000,
+          "tokenCost": 130,
+          "multiplier": 2,
+          "xpBonus": 195,
+          "crewBonus": 0
+        },
+        {
+          "level": 12,
+          "coinCost": 55000,
+          "tokenCost": 180,
+          "multiplier": 2.2,
+          "xpBonus": 225,
+          "crewBonus": 0
+        },
+        {
+          "level": 13,
+          "coinCost": 65000,
+          "tokenCost": 220,
+          "multiplier": 2.2,
+          "xpBonus": 255,
+          "crewBonus": 0
+        },
+        {
+          "level": 14,
+          "coinCost": 75000,
+          "tokenCost": 270,
+          "multiplier": 2.4,
+          "xpBonus": 285,
+          "crewBonus": 0
+        },
+        {
+          "level": 15,
+          "coinCost": 90000,
+          "tokenCost": 320,
+          "multiplier": 2.4,
+          "xpBonus": 320,
+          "crewBonus": 0
+        },
+        {
+          "level": 16,
+          "coinCost": 95000,
+          "tokenCost": 380,
+          "multiplier": 2.6,
+          "xpBonus": 355,
+          "crewBonus": 0
+        },
+        {
+          "level": 17,
+          "coinCost": 100000,
+          "tokenCost": 420,
+          "multiplier": 2.6,
+          "xpBonus": 390,
+          "crewBonus": 0
+        },
+        {
+          "level": 18,
+          "coinCost": 105000,
+          "tokenCost": 450,
+          "multiplier": 2.8,
+          "xpBonus": 425,
+          "crewBonus": 0
+        },
+        {
+          "level": 19,
+          "coinCost": 111000,
+          "tokenCost": 500,
+          "multiplier": 2.8,
+          "xpBonus": 460,
+          "crewBonus": 0
+        },
+        {
+          "level": 20,
+          "coinCost": 0,
+          "tokenCost": 0,
+          "multiplier": 3,
+          "xpBonus": 0,
+          "crewBonus": 0
+        }
+      ],
+      "Perk": 1757247840,
+      "unlockCostTier": 1
+    }
+  ]
+}

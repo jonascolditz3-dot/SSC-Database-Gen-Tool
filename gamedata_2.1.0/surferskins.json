@@ -1,0 +1,571 @@
+{
+  "skins": [
+    {
+      "dataTag": -56800546,
+      "localizationKey": "skins.jake.jake_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": -960954917,
+      "localizationKey": "skins.jake.jake_redblack",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": 213457242,
+      "localizationKey": "skins.jake.jake_google",
+      "available": false,
+      "unlockType": 6,
+      "rarity": 0
+    },
+    {
+      "dataTag": -848432295,
+      "localizationKey": "skins.jake.jake_apple",
+      "available": false,
+      "unlockType": 6,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1186298654,
+      "localizationKey": "skins.jake.jake_yellow",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1882385935,
+      "localizationKey": "skins.jake.jake_incognito",
+      "available": false,
+      "unlockType": 6,
+      "rarity": 1
+    },
+    {
+      "dataTag": -1087452012,
+      "localizationKey": "skins.jake.jake_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": -72574065,
+      "localizationKey": "skins.tricky.tricky_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": 1564209559,
+      "localizationKey": "skins.tricky.tricky_redblack",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": -820187263,
+      "localizationKey": "skins.tricky.tricky_neon",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1583432582,
+      "localizationKey": "skins.tricky.tricky_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": 1202249944,
+      "localizationKey": "skins.fresh.fresh_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1292355720,
+      "localizationKey": "skins.fresh.fresh_redblack",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": 772685907,
+      "localizationKey": "skins.fresh.fresh_purple",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": 1310049346,
+      "localizationKey": "skins.fresh.fresh_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": -1083767387,
+      "localizationKey": "skins.missmaia.missmaia_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": 1154305282,
+      "localizationKey": "skins.missmaia.missmaia_redblack",
+      "available": true,
+      "unlockType": 4,
+      "rarity": 0
+    },
+    {
+      "dataTag": 775756685,
+      "localizationKey": "skins.missmaia.missmaia_orangeblue",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": 577316046,
+      "localizationKey": "skins.missmaia.missmaia_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": 1189151463,
+      "localizationKey": "skins.ninjaone.ninja_one_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": -672918755,
+      "localizationKey": "skins.ninjaone.ninja_one_gray",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1253901889,
+      "localizationKey": "skins.ninjaone.ninja_one_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": 460586275,
+      "localizationKey": "skins.yutani.yutani_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": -258476380,
+      "localizationKey": "skins.yutani.yutani_redblack",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": 1478947346,
+      "localizationKey": "skins.yutani.yutani_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": 922134811,
+      "localizationKey": "skins.spike.spike_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": -759788578,
+      "localizationKey": "skins.spike.spike_redash",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1655542994,
+      "localizationKey": "skins.spike.spike_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": -989991611,
+      "localizationKey": "skins.ella.ella_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": 1508371367,
+      "localizationKey": "skins.ella.ella_purple",
+      "available": false,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": -93943772,
+      "localizationKey": "skins.ella.ella_yellowblack",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": 1990369193,
+      "localizationKey": "skins.ella.ella_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": -2145465549,
+      "localizationKey": "skins.jay.jay_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": -152602730,
+      "localizationKey": "skins.jay.jay_cali",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1566346654,
+      "localizationKey": "skins.jay.jay_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": 27667358,
+      "localizationKey": "skins.billy.billy_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1959135014,
+      "localizationKey": "skins.billy.billy_junglecammo",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": 2025202852,
+      "localizationKey": "skins.billy.billy_flames",
+      "available": false,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1067636066,
+      "localizationKey": "skins.billy.billy_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": -1389912410,
+      "localizationKey": "skins.rosalita.rosalita_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": 389528075,
+      "localizationKey": "skins.rosalita.rosalita_blackburgundy",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1487295210,
+      "localizationKey": "skins.rosalita.rosalita_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": -503301639,
+      "localizationKey": "skins.tasha.tasha_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1312184589,
+      "localizationKey": "skins.tasha.tasha_green",
+      "available": false,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": 288125499,
+      "localizationKey": "skins.tasha.tasha_redwhite",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": -889435486,
+      "localizationKey": "skins.tasha.tasha_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": -1312276630,
+      "localizationKey": "skins.jaewoo.jaewoo_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1360992679,
+      "localizationKey": "skins.jaewoo.jaewoo_blackmagenta",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1505271108,
+      "localizationKey": "skins.jaewoo.jaewoo_greenpurple",
+      "available": false,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": 374299079,
+      "localizationKey": "skins.jaewoo.jaewoo_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": -1236251198,
+      "localizationKey": "skins.tagbot.tagbot_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": 1864637985,
+      "localizationKey": "skins.tagbot.tagbot_red",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": -209858400,
+      "localizationKey": "skins.tagbot.tagbot_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": -789829533,
+      "localizationKey": "skins.lilah.lilah_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1597270950,
+      "localizationKey": "skins.lilah.lilah_greencammo",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": 1093072756,
+      "localizationKey": "skins.zara.zara_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": 1870421642,
+      "localizationKey": "skins.zara.zara_holozebra",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": 816980720,
+      "localizationKey": "skins.ash.ash_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": 1150862217,
+      "localizationKey": "skins.ash.ash_greenorange",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": 362958220,
+      "localizationKey": "skins.jenny.jenny_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1287581543,
+      "localizationKey": "skins.jenny.jenny_colorpatches",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": -2092832313,
+      "localizationKey": "skins.wei.wei_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": -871825427,
+      "localizationKey": "skins.wei.wei_tealorange",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1112152883,
+      "localizationKey": "skins.princek.princek_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": 1781172277,
+      "localizationKey": "skins.princek.princek_red",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1415696609,
+      "localizationKey": "skins.monique.monique_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": 1335121268,
+      "localizationKey": "skins.monique.monique_greenmustard",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": 1962475607,
+      "localizationKey": "skins.noon.noon_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": 748483822,
+      "localizationKey": "skins.noon.noon_blue",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": 666084587,
+      "localizationKey": "skins.v3ctor.v3ctor_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": -2129570054,
+      "localizationKey": "skins.v3ctor.v3ctor_vr",
+      "available": false,
+      "unlockType": 3,
+      "rarity": 1
+    },
+    {
+      "dataTag": -1857764588,
+      "localizationKey": "skins.v3ctor.v3ctor_pink",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": 1014902922,
+      "localizationKey": "skins.v3ctor.v3ctor_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": 2085271833,
+      "localizationKey": "skins.georgie.georgie_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": -1648267179,
+      "localizationKey": "skins.georgie.georgie_chicagobulls",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    },
+    {
+      "dataTag": 1136726127,
+      "localizationKey": "skins.georgie.georgie_bling",
+      "available": false,
+      "unlockType": 3,
+      "rarity": 1
+    },
+    {
+      "dataTag": 1119532892,
+      "localizationKey": "skins.georgie.georgie_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": 726823100,
+      "localizationKey": "skins.lucy.lucy_default",
+      "available": true,
+      "unlockType": 0,
+      "rarity": 0
+    },
+    {
+      "dataTag": 1076495376,
+      "localizationKey": "skins.lucy.lucy_legendary",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 2
+    },
+    {
+      "dataTag": 1973379545,
+      "localizationKey": "skins.lucy.lucy_gravequeen",
+      "available": true,
+      "unlockType": 3,
+      "rarity": 1
+    },
+    {
+      "dataTag": -122811436,
+      "localizationKey": "skins.lucy.lucy_purple",
+      "available": true,
+      "unlockType": 7,
+      "rarity": 0
+    }
+  ]
+}
