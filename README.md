@@ -3,23 +3,23 @@
 This repository is the "Engine" behind the Subway City ecosystem. It parses raw game data into a structured JSON database that powers the Subway City Save Editor.
 
 ## 🔗 The Ecosystem
-*   **Database API:** <a href="https://subway-city-database.trackerzero.workers.dev/" target="_blank">subway-city-database.trackerzero.workers.dev</a>
-*   **Save Editor:** <a href="https://subway-city-save-editor.vercel.app/" target="_blank">subway-city-save-editor.vercel.app</a>
+*   **Database API:** [https://subway-city-database.trackerzero.workers.dev/](https://subway-city-database.trackerzero.workers.dev/)
+*   **Save Editor:** [https://subway-city-save-editor.vercel.app/](https://subway-city-save-editor.vercel.app/)
 
 ---
 
 ## 🚀 How it Works
 1.  **Parse:** The `generate_robust_db.cjs` script reads raw game data (e.g., `surfers.json`, `boards.json`) from the `gamedata_2.1.0/` directory.
 2.  **Generate:** It processes the data using logic in the `/parsers` and `/utils` folders to produce optimized, alphabetically sorted JSON files and TypeScript definitions.
-3.  **Output:** All generated files are stored in the **`/output`** folder.
-4.  **API Hosting:** This repository is a standalone generator tool. The generated files are manually used to update the **Cloudflare Worker API**, which serves the data with full CORS support to the Save Editor.
+3.  **Output:** All generated files are stored in the `/output` folder.
+4.  **API Hosting:** The generated files are used to update the **Cloudflare Worker API**, which serves the data with full CORS support to the Save Editor.
 
 ---
 
 ## ⚙️ Development
 
 ### Prerequisites
-*   <a href="https://nodejs.org/" target="_blank">Node.js</a> installed locally.
+*   [Node.js](https://nodejs.org/) installed locally.
 
 ### Generating the Database
 To process the latest data and update the `/output` folder:
@@ -50,12 +50,12 @@ The live database (hosted via Cloudflare) is accessible at the following endpoin
 
 | File | Description |
 | :--- | :--- |
-| <a href="https://subway-city-database.trackerzero.workers.dev/surfers.json" target="_blank">/surfers.json</a> | Characters, unlock types, and associated skins. |
-| <a href="https://subway-city-database.trackerzero.workers.dev/skins.json" target="_blank">/skins.json</a> | Detailed skin data and localization keys. |
-| <a href="https://subway-city-database.trackerzero.workers.dev/boards.json" target="_blank">/boards.json</a> | Hoverboard properties and availability. |
-| <a href="https://subway-city-database.trackerzero.workers.dev/seasons.json" target="_blank">/seasons.json</a> | Start/End dates for game seasons. |
-| <a href="https://subway-city-database.trackerzero.workers.dev/city_tour.json" target="_blank">/city_tour.json</a> | District, Chapter, and Stage progression data. |
-| <a href="https://subway-city-database.trackerzero.workers.dev/metadata.json" target="_blank">/metadata.json</a> | Versioning and "Last Updated" timestamps. |
+| [`/surfers.json`](https://subway-city-database.trackerzero.workers.dev/surfers.json) | Characters, unlock types, and associated skins. |
+| [`/skins.json`](https://subway-city-database.trackerzero.workers.dev/skins.json) | Detailed skin data and localization keys. |
+| [`/boards.json`](https://subway-city-database.trackerzero.workers.dev/boards.json) | Hoverboard properties and availability. |
+| [`/seasons.json`](https://subway-city-database.trackerzero.workers.dev/seasons.json) | Start/End dates for game seasons. |
+| [`/city_tour.json`](https://subway-city-database.trackerzero.workers.dev/city_tour.json) | District, Chapter, and Stage progression data. |
+| [`/metadata.json`](https://subway-city-database.trackerzero.workers.dev/metadata.json) | Versioning and "Last Updated" timestamps. |
 
 ---
 
@@ -67,15 +67,15 @@ This tool automatically generates high-level TypeScript interfaces. You can impo
 import { Surfer, SurfersDB } from './output/types';
 
 const data: SurfersDB = await response.json();
-console.log(data["jackie"].name); // "Jackie"
+console.log(data["JACK"].name); // "Jack"
 ```
 
 ---
 
 ## 🛠 Tech Stack
 *   **Parser:** Node.js (FileSystem & Path modules)
-*   **API Hosting:** <a href="https://workers.cloudflare.com/" target="_blank">Cloudflare Workers</a> (Standalone)
-*   **Frontend:** <a href="https://vercel.com/" target="_blank">Vercel</a> (Subway City Save Editor)
+*   **API Hosting:** Cloudflare Workers (Standalone)
+*   **Frontend:** Vercel (Subway City Save Editor)
 *   **Type System:** TypeScript Definitions (`.d.ts`)
 
 ---
