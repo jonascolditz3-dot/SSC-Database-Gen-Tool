@@ -14,29 +14,73 @@ const GENERATE = {
   metadata: 1,
 };
 
+console.log("==================================================");
+console.log("       SSC Database Gen Tool - Running...       ");
+console.log("==================================================\n");
+
 const gamedataDir = path.join(__dirname, "gamedata_2.1.2");
 const outputDir = path.join(__dirname, "output");
+const tokenTagsPath = path.join(__dirname, "tokens.json");
 
+console.log(`[INFO] Game Data Directory: ${gamedataDir}`);
+console.log(`[INFO] Output Directory: ${outputDir}`);
+console.log(`[INFO] Token Tags File: ${tokenTagsPath}\n`);
+
+console.log("[INFO] Ensuring output directory exists...");
 if (!fs.existsSync(outputDir)) {
   fs.mkdirSync(outputDir, { recursive: true });
 }
 
-console.log("Parsing game data...");
+console.log("[INFO] Loading JSON Tokens...");
+let parsedTokens = { surfers: {}, boards: {} };
+if (fs.existsSync(tokenTagsPath)) {
+  parsedTokens = JSON.parse(fs.readFileSync(tokenTagsPath, 'utf8'));
+  console.log(`[SUCCESS] Loaded tokens for ${Object.keys(parsedTokens.surfers).length} surfers and ${Object.keys(parsedTokens.boards).length} boards.`);
+} else {
+  console.log("[WARNING] tokens.json not found. Proceeding without token tags.\n");
+}
+
+console.log("\n[INFO] Parsing game data...");
 let surfers, skins, boards, seasons;
 
 if (GENERATE.surfers || GENERATE.skins) {
+  console.log("  -> Parsing Surfers & Skins...");
   const parsed = parseSurfersAndSkins(gamedataDir);
   surfers = parsed.surfers;
   skins = parsed.skins;
+  
+  if (GENERATE.surfers) {
+    // Inject tokenTags into surfers
+    let matchCount = 0;
+    for (const [id, surfer] of Object.entries(surfers)) {
+      if (parsedTokens.surfers[id]) {
+        surfer.tokenTag = parsedTokens.surfers[id].tokenTag;
+        matchCount++;
+      }
+    }
+    console.log(`  -> Validated ${matchCount} Surfer Token Tags.`);
+  }
 }
 if (GENERATE.boards) {
+  console.log("  -> Parsing Boards...");
   boards = parseBoards(gamedataDir).boards;
+  
+  // Inject tokenTags into boards
+  let matchCount = 0;
+  for (const [id, board] of Object.entries(boards)) {
+    if (parsedTokens.boards[id]) {
+      board.tokenTag = parsedTokens.boards[id].tokenTag;
+      matchCount++;
+    }
+  }
+  console.log(`  -> Validated ${matchCount} Board Token Tags.`);
 }
 if (GENERATE.seasons) {
+  console.log("  -> Parsing Seasons...");
   seasons = parseSeasons(gamedataDir).seasons;
 }
 
-console.log("Writing modular JSON files...");
+console.log("\n[INFO] Writing modular JSON files...");
 
 // Custom stringify to sort the dictionary keys by the 'name' property of their values
 function stringifySortedByName(dict) {
@@ -97,4 +141,4 @@ if (GENERATE.metadata) {
   fs.writeFileSync(metadataPath, JSON.stringify(metadata, null, 2));
 }
 
-console.log("Done! Modular database generated in " + outputDir);
+console.log(`\n[SUCCESS] Done! Modular database generated in ${outputDir}`);

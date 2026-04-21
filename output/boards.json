@@ -5,7 +5,8 @@
     "localizationKey": "lilah",
     "isDefault": false,
     "available": false,
-    "unlockType": 3
+    "unlockType": 3,
+    "tokenTag": -1980414123
   },
   "369661746": {
     "id": 369661746,
@@ -13,7 +14,8 @@
     "localizationKey": "lucy",
     "isDefault": false,
     "available": false,
-    "unlockType": 3
+    "unlockType": 3,
+    "tokenTag": 91344455
   },
   "-2014824727": {
     "id": -2014824727,
@@ -21,7 +23,8 @@
     "localizationKey": "tagbot",
     "isDefault": false,
     "available": true,
-    "unlockType": 8
+    "unlockType": 8,
+    "tokenTag": -1802408036
   },
   "-1995581156": {
     "id": -1995581156,
@@ -29,7 +32,8 @@
     "localizationKey": "rosalita",
     "isDefault": false,
     "available": true,
-    "unlockType": 8
+    "unlockType": 8,
+    "tokenTag": -1703640983
   },
   "-2028224723": {
     "id": -2028224723,
@@ -37,7 +41,8 @@
     "localizationKey": "princek",
     "isDefault": false,
     "available": false,
-    "unlockType": 3
+    "unlockType": 3,
+    "tokenTag": -1805457832
   },
   "-875752536": {
     "id": -875752536,
@@ -45,7 +50,8 @@
     "localizationKey": "spike",
     "isDefault": false,
     "available": true,
-    "unlockType": 8
+    "unlockType": 8,
+    "tokenTag": -659272995
   },
   "857306595": {
     "id": 857306595,
@@ -61,7 +67,8 @@
     "localizationKey": "billy",
     "isDefault": false,
     "available": true,
-    "unlockType": 8
+    "unlockType": 8,
+    "tokenTag": -1390254068
   },
   "-282672473": {
     "id": -282672473,
@@ -69,7 +76,8 @@
     "localizationKey": "monique",
     "isDefault": false,
     "available": false,
-    "unlockType": 3
+    "unlockType": 3,
+    "tokenTag": -60843054
   },
   "-1946062440": {
     "id": -1946062440,
@@ -77,7 +85,8 @@
     "localizationKey": "jaewoo",
     "isDefault": false,
     "available": true,
-    "unlockType": 8
+    "unlockType": 8,
+    "tokenTag": -1619515155
   },
   "1346993456": {
     "id": 1346993456,
@@ -85,7 +94,8 @@
     "localizationKey": "wei",
     "isDefault": false,
     "available": false,
-    "unlockType": 3
+    "unlockType": 3,
+    "tokenTag": 1127228485
   },
   "-2027086747": {
     "id": -2027086747,
@@ -93,7 +103,8 @@
     "localizationKey": "fresh",
     "isDefault": false,
     "available": true,
-    "unlockType": 0
+    "unlockType": 0,
+    "tokenTag": -1806416624
   },
   "-268124908": {
     "id": -268124908,
@@ -101,7 +112,8 @@
     "localizationKey": "v3ctor",
     "isDefault": false,
     "available": false,
-    "unlockType": 3
+    "unlockType": 3,
+    "tokenTag": -478288799
   },
   "-1398156391": {
     "id": -1398156391,
@@ -109,7 +121,8 @@
     "localizationKey": "ash",
     "isDefault": false,
     "available": false,
-    "unlockType": 3
+    "unlockType": 3,
+    "tokenTag": -1076851988
   },
   "-1569537423": {
     "id": -1569537423,
@@ -117,7 +130,8 @@
     "localizationKey": "missmaia",
     "isDefault": false,
     "available": true,
-    "unlockType": 8
+    "unlockType": 8,
+    "tokenTag": -1324639484
   },
   "463203314": {
     "id": 463203314,
@@ -125,7 +139,8 @@
     "localizationKey": "noon",
     "isDefault": false,
     "available": false,
-    "unlockType": 3
+    "unlockType": 3,
+    "tokenTag": 149074567
   },
   "797961277": {
     "id": 797961277,
@@ -133,7 +148,8 @@
     "localizationKey": "tricky",
     "isDefault": false,
     "available": true,
-    "unlockType": 0
+    "unlockType": 0,
+    "tokenTag": 1022801224
   },
   "1092080220": {
     "id": 1092080220,
@@ -141,7 +157,8 @@
     "localizationKey": "harini",
     "isDefault": false,
     "available": false,
-    "unlockType": 3
+    "unlockType": 3,
+    "tokenTag": 1382976297
   },
   "1016074756": {
     "id": 1016074756,
@@ -149,7 +166,8 @@
     "localizationKey": "jenny",
     "isDefault": false,
     "available": false,
-    "unlockType": 3
+    "unlockType": 3,
+    "tokenTag": 803818353
   },
   "-762458939": {
     "id": -762458939,
@@ -157,7 +175,8 @@
     "localizationKey": "zara",
     "isDefault": false,
     "available": false,
-    "unlockType": 3
+    "unlockType": 3,
+    "tokenTag": -1040935504
   },
   "-2089484430": {
     "id": -2089484430,
@@ -165,7 +184,8 @@
     "localizationKey": "yutani",
     "isDefault": false,
     "available": true,
-    "unlockType": 8
+    "unlockType": 8,
+    "tokenTag": -1878153721
   },
   "-1017845163": {
     "id": -1017845163,
@@ -173,7 +193,8 @@
     "localizationKey": "classic",
     "isDefault": false,
     "available": false,
-    "unlockType": 6
+    "unlockType": 6,
+    "tokenTag": -802311392
   },
   "1389875337": {
     "id": 1389875337,
@@ -181,7 +202,8 @@
     "localizationKey": "georgie",
     "isDefault": false,
     "available": false,
-    "unlockType": 3
+    "unlockType": 3,
+    "tokenTag": 1101957628
   },
   "-487324792": {
     "id": -487324792,
@@ -189,7 +211,8 @@
     "localizationKey": "tasha",
     "isDefault": false,
     "available": true,
-    "unlockType": 8
+    "unlockType": 8,
+    "tokenTag": -242394371
   },
   "821107692": {
     "id": 821107692,
@@ -197,7 +220,8 @@
     "localizationKey": "jake",
     "isDefault": false,
     "available": true,
-    "unlockType": 0
+    "unlockType": 0,
+    "tokenTag": 596132505
   },
   "-1886993925": {
     "id": -1886993925,
@@ -205,7 +229,8 @@
     "localizationKey": "ella",
     "isDefault": false,
     "available": true,
-    "unlockType": 8
+    "unlockType": 8,
+    "tokenTag": -1660970866
   },
   "-573684740": {
     "id": -573684740,
@@ -213,7 +238,8 @@
     "localizationKey": "ninjaone",
     "isDefault": false,
     "available": true,
-    "unlockType": 8
+    "unlockType": 8,
+    "tokenTag": -826860919
   },
   "-425685755": {
     "id": -425685755,
@@ -221,6 +247,7 @@
     "localizationKey": "nicky",
     "isDefault": false,
     "available": true,
-    "unlockType": 8
+    "unlockType": 8,
+    "tokenTag": -170273680
   }
 }
